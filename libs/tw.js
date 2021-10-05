@@ -1,0 +1,1 @@
+export default (title,duration=2000,icon="none") => uni.showToast({title,duration,icon});
